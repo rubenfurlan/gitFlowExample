@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GitFlowExampleApplication {
 
+    // -> levanto aca: http://localhost:8080/
+
     public static void main(String[] args) {
         SpringApplication.run(GitFlowExampleApplication.class, args);
     }
