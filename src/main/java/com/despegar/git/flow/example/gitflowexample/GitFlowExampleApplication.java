@@ -14,6 +14,7 @@ public class GitFlowExampleApplication {
     //feature_3
     //feature_4
     //feature_5
+    //feature_6
 
 
     public static void main(String[] args) {
