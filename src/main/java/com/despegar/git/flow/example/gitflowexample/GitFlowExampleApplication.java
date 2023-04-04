@@ -10,14 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class GitFlowExampleApplication {
 
     // -> levanto aca: http://localhost:8080/
-    //feaure2
-    //feature_3
-    //feature_4
-    //feature_5
-    //feature_6
-    //feature sin las opciones
-    //feature CON las opciones
-
 
     public static void main(String[] args) {
         SpringApplication.run(GitFlowExampleApplication.class, args);
