@@ -21,4 +21,10 @@ public class GitFlowExampleApplication {
         return "Hello World!";
     }
 
+    @GetMapping("/saludo")
+    public String saludo() {
+        return "Hola mundo!";
+    }
+
+
 }
