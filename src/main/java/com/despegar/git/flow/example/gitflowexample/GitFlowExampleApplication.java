@@ -28,7 +28,7 @@ public class GitFlowExampleApplication {
     
     @GetMapping("/saludo-dos")
     public String saludoDos() {
-        return null;
+        return "saludo-dos";
     }
 
 }
