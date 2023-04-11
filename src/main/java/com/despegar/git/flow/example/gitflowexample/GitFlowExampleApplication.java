@@ -15,6 +15,7 @@ public class GitFlowExampleApplication {
         SpringApplication.run(GitFlowExampleApplication.class, args);
     }
 
+    //Metodo que saluda
     @GetMapping("/")
     public String hello() {
         return "Hello World!";
